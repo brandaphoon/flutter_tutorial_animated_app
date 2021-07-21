@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tutorial_app/basic_animation_page.dart';
+import 'package:flutter_tutorial_app/animated_builder_page.dart';
 
 void main() {
   runApp(MyApp());
